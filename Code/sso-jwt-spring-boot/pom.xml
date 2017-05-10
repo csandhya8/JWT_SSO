@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.sso.jwt.springboot</groupId>
+    <artifactId>sso-jwt-spring-boot-example</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <name>sso jwt spring boot example</name>
+
+    <modules>
+        <module>hello-sso-jwt-auth</module>
+        <module>hello-sso-jwt-resource1</module>
+		<module>hello-sso-jwt-resource2</module>
+		<!--<module>calc-service</module>  -->
+    </modules>
+
+</project>

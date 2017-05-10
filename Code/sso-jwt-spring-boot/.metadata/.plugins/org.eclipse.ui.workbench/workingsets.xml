@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1480598845101_1" label="sso-jwt-spring-boot-example" name="sso-jwt-spring-boot-example">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/hello-sso-jwt-resource1" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/hello-sso-jwt-resource2" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/hello-sso-jwt-auth" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1480327142027_0" label="Window Working Set" name="Aggregate for window 1480327142026"/>
+</workingSetManager>
